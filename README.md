@@ -2,6 +2,7 @@
 
 <!--
 **mg224/mg224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
 # 💫 About Me:
   I'm a second-year university student pursuing a B.S. in Mathematics & Computer Science with a minor in Business at Emory University! <br><br>
