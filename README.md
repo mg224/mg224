@@ -17,7 +17,7 @@
 
 ## 💻 Tech Stack:
 Languages: 
-![Python]([ogoColor=white](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)) 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
