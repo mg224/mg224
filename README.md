@@ -26,7 +26,7 @@ Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 
 Developer Tools: 
-![VS Code](https://img.shields.io/badge/VSCode-FF6C37?style=for-the-badge&logo=VSCode&logoColor=white) 
+![VS Code]([https://img.shields.io/badge/VSCode-FF6C37?style=for-the-badge&logo=VSCode&logoColor=white](https://img.shields.io/badge/VisualStudioCode-VS%20Code-blue)) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Libraries/Frameworks: 
