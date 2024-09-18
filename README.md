@@ -8,8 +8,8 @@
 - Creating various applications for the Emory community with my club, Eagle Apps, such as a school transportation app, course planner, and more!
 
 ## 👨🏻‍💼 Experience:
-- Undergraduate Research Assistant at Emory University's Computer Science Department: Working wth a team Ph.D. students as a second-year undergraduate on the Human Mobility Prediction Challenge, using Python, Scikit-Learn, Pandas, and NumPy to predict missing data for users and POI visitation.
-- SAT & AP Computer Science A Tutor at The Princeton Review: Improved academic performance and test scores for over 20 high school students by facilitating lessons in SAT and AP Computer Science A preparation in underprivileged areas, teaching key computer science fundamentals, including object-oriented programming, data structures, algorithms, and recursion in Java.<br>
+- <b>Undergraduate Research Assistant at Emory University's Computer Science Department:</b> Working wth a team Ph.D. students as a second-year undergraduate on the Human Mobility Prediction Challenge, using Python, Scikit-Learn, Pandas, and NumPy to predict missing data for users and POI visitation.
+- <b>SAT & AP Computer Science A Tutor at The Princeton Review:</b> Improved academic performance and test scores for over 20 high school students by facilitating lessons in SAT and AP Computer Science A preparation in underprivileged areas, teaching key computer science fundamentals, including object-oriented programming, data structures, algorithms, and recursion in Java.<br>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishasgupta) <br>
