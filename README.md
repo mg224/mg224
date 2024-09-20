@@ -4,8 +4,8 @@
   I'm a second-year university student pursuing a B.S. in Mathematics & Computer Science with a minor in Business at Emory University! <br><br>
 
 ## 🚀 What I'm Up To:
-- Building a web platform for underrepresented students to connect with alumni to advance their careers in Government, Tech, Law, Finance, Nonprofits, etc.
-- Creating various applications for the Emory community with my club, Eagle Apps, such as a school transportation app, course planner, and more!
+- Building a web platform for APIDA-identifying & underrepresented students to connect with alumni to advance their careers in Government, Tech, Law, Finance, Nonprofits, etc.
+- Founding a student organization, Eagle Apps, where members build various applications for the Emory community such as a school transportation app, course planner, and more!
 
 ## 👨🏻‍💼 Experience:
 - <b>Undergraduate Research Assistant at Emory University's Computer Science Department:</b> Working wth a team Ph.D. students as a second-year undergraduate on the Human Mobility Prediction Challenge, using Python, Scikit-Learn, Pandas, and NumPy to predict missing data for users and POI visitation.
