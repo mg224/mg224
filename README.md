@@ -6,9 +6,9 @@
 ## 🚀 What I'm Up To:
 - Building a web platform for APIDA-identifying & underrepresented students to connect with alumni to advance their careers in Government, Tech, Law, Finance, Nonprofits, etc.
 - Musician's Mentor, a web platform that connects student musicians to accomplished college musicians for affordable private lessons.
-- AppLift, a startup where members build various applications for the local school and Atlanta community such as a school transportation app, course planner, freelance websites, and more!
 
 ## 👨🏻‍💼 Experience:
+- <b>Software Engineer at Emory University School of Medicine:<b> Collaborating with a team of 8 junior engineers and 2 senior engineers to create a Gamified Longitudinal Assessment Platform, an innovative educational platform aimed at transforming competency-based learning and assessment in medical education.
 - <b>Undergraduate Research Assistant at Emory University's Computer Science Department:</b> Working with a team of Ph.D. students as a second-year undergraduate on the Human Mobility Prediction Challenge, using Python, Scikit-Learn, Pandas, and NumPy to predict missing data for users and POI visitation.
 - <b>SAT & AP Computer Science A Tutor at The Princeton Review:</b> Improved academic performance and test scores for over 20 high school students by facilitating lessons in SAT and AP Computer Science A preparation in underprivileged areas, teaching key computer science fundamentals, including object-oriented programming, data structures, algorithms, and recursion in Java.<br>
 
